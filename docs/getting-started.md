@@ -12,7 +12,7 @@ sidebar_position: 1
 
 2. SSH into the Pi and update the kernel and reboot
 ```
-sudo apt-get update && sudo apt-get install raspberrypi-kernel
+sudo apt-get update
 ```
 ```
 sudo shutdown -r now
